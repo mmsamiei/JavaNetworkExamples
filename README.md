@@ -1,4 +1,4 @@
-# JavaNetworkExample
+# JavaNetworkExamples
 **list of Examples**
 
 1. simple programm for getting to know how to connect between socket , serverSocket , clientSocket
