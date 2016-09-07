@@ -1,3 +1,6 @@
+//first run Myserver then run Myclient
+
+
 Server start to find client socket and accept it ...
 Server find a client socket and accepted it ...
 the clientNumber of this client is 33
